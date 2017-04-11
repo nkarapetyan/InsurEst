@@ -1,0 +1,7 @@
+ML class project
+data/
+    |- contains the training data
+    |- place final cleaned data here in ver01 folder
+
+code/
+    |- probably the final project code or the current code on which all we will work
