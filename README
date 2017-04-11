@@ -1,7 +1,6 @@
-ML class project
+ML Car Insurance Prediction Project
 data/
-    |- contains the training data
-    |- place final cleaned data here in ver01 folder
+    |- training data
 
 code/
-    |- probably the final project code or the current code on which all we will work
+    |- project code or the current code
